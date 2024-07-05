@@ -121,7 +121,7 @@ _Congratulations, you've completed this launchpad and joined the world of develo
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
 
-### What's next?
+### What's next
 
 
 Check out these resources to learn more or get involved:
